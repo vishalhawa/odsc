@@ -1,5 +1,5 @@
-# odsc
-Presentation for ODSC East 
+# Presentation for ODSC East 
+
 ODSC - East 
 Workshop on Multi-channel optimal path sequencing through Bayesian Deep Learning
 
