@@ -14,11 +14,11 @@ R- Ecosystem has well kept pace with the development on tensorflow / Deep Learni
 -	Data Needs : Will simulated data, if any other will be advised
 
 ## Files
-simulate_data : generate data for the model
-tf_rnn : tensorflow RNN model for sequence as classifier in R-ecosystem
-tfp_rnn_vae_iso : tensorflow probability model for VAE with isotropic gaussian
-tfp_rnn_vae_lp : tensorflow probability model for VAE with learnable prior as mixture of gaussians
-utils : Utility functions supportive needs
+- simulate_data : generate data for the model
+- tf_rnn : tensorflow RNN model for sequence as classifier in R-ecosystem
+- tfp_rnn_vae_iso : tensorflow probability model for VAE with isotropic gaussian
+- tfp_rnn_vae_lp : tensorflow probability model for VAE with learnable prior as mixture of gaussians
+- utils : Utility functions supportive needs
 
 
 
